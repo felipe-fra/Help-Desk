@@ -17,7 +17,7 @@ O projeto Help Desk foi desenvolvido em curso de aprendizado da linguagem PHP, e
 
 # Features
 
-1. Validação de usuário via método POST de requisição.
+1. Validação de usuário com método POST e variaveis globais.
 2. Armazenamento de arquivos.
 3. Recuperação de arquivos e exibição.
 4. Logout.
