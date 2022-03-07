@@ -2,7 +2,7 @@
 
 
 
-<img src="."/>
+<img src="imagens/AppHelpDesk.gif"/>
 
 <a href="#sobre" >Sobre/ </a>
 <a href="#features" >Features/ </a>
